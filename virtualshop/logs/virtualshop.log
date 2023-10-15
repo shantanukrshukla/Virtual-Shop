@@ -1,0 +1,138 @@
+2023-10-15 13:37:20,076 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-15 13:37:20,076 - kuberCart - INFO - [Main] - starting shop registration service
+2023-10-15 13:37:20,076 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-15 13:37:20,911 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-15 13:37:20,914 - kuberCart - INFO - [Main] - starting shop registration service
+2023-10-15 13:37:20,914 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-15 13:38:06,346 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-15 13:38:06,346 - kuberCart - INFO - [Main] - starting shop registration service
+2023-10-15 13:38:06,347 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-15 13:38:07,779 - kuberCart - INFO - [ShopRegistration] - Thread Thread-6: Registering a Shop
+2023-10-15 13:38:07,849 - kuberCart - INFO - [SPExecutor] - generating unique seller code
+2023-10-15 13:38:07,855 - kuberCart - INFO - [SPExecutor] - sp_GenerateUniqueShopCode executed successfully !!
+2023-10-15 13:38:07,856 - kuberCart - INFO - [ShopValidation] - Making a connection to the database
+2023-10-15 13:38:07,895 - kuberCart - INFO - [ShopValidation] - Checking if a shop is already exists in our database or not
+2023-10-15 13:38:07,895 - kuberCart - INFO - [ShopValidation] - query = SELECT *  FROM Shop WHERE ShopID=%s
+2023-10-15 13:38:07,947 - kuberCart - INFO - [ShopValidation] - creating new shop in our database with shopId : SHOP7463
+2023-10-15 13:38:07,981 - kuberCart - INFO - [ShopValidation] - virtual shop has been created successfully
+2023-10-15 13:38:17,080 - kuberCart - INFO - [ShopRegistration] - Thread Thread-8: Registering a Shop
+2023-10-15 13:38:17,125 - kuberCart - INFO - [SPExecutor] - generating unique seller code
+2023-10-15 13:38:17,128 - kuberCart - INFO - [SPExecutor] - sp_GenerateUniqueShopCode executed successfully !!
+2023-10-15 13:38:17,129 - kuberCart - INFO - [ShopValidation] - Making a connection to the database
+2023-10-15 13:38:17,165 - kuberCart - INFO - [ShopValidation] - Checking if a shop is already exists in our database or not
+2023-10-15 13:38:17,166 - kuberCart - INFO - [ShopValidation] - query = SELECT *  FROM Shop WHERE ShopID=%s
+2023-10-15 13:38:17,210 - kuberCart - INFO - [ShopValidation] - creating new shop in our database with shopId : SHOP0199
+2023-10-15 13:38:17,251 - kuberCart - INFO - [ShopValidation] - virtual shop has been created successfully
+2023-10-15 13:39:21,417 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-15 13:39:21,418 - kuberCart - INFO - [Main] - starting shop registration service
+2023-10-15 13:39:21,418 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-15 13:39:55,049 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-15 13:39:55,050 - kuberCart - INFO - [Main] - starting shop registration service
+2023-10-15 13:39:55,050 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-15 13:40:29,804 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-15 13:40:29,804 - kuberCart - INFO - [Main] - starting shop registration service
+2023-10-15 13:40:29,804 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-15 13:42:10,295 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-15 13:42:10,295 - kuberCart - INFO - [Main] - starting shop registration service
+2023-10-15 13:42:10,295 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-15 13:42:11,334 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-15 13:42:11,335 - kuberCart - INFO - [Main] - starting shop registration service
+2023-10-15 13:42:11,335 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-15 13:42:15,819 - kuberCart - INFO - [ShopRegistration] - Thread Thread-6: Registering a Shop
+2023-10-15 13:42:15,870 - kuberCart - INFO - [SPExecutor] - generating unique seller code
+2023-10-15 13:42:15,873 - kuberCart - INFO - [SPExecutor] - sp_GenerateUniqueShopCode executed successfully !!
+2023-10-15 13:42:15,874 - kuberCart - INFO - [ShopValidation] - Making a connection to the database
+2023-10-15 13:42:15,903 - kuberCart - INFO - [ShopValidation] - Checking if a shop is already exists in our database or not
+2023-10-15 13:42:15,904 - kuberCart - INFO - [ShopValidation] - query = SELECT *  FROM Shop WHERE ShopName=%s
+2023-10-15 13:42:15,907 - kuberCart - INFO - [ShopValidation] - Shop found, returning info
+2023-10-15 13:42:15,910 - kuberCart - ERROR - [ShopValidation] - User with that username already exists
+2023-10-15 13:42:23,653 - kuberCart - INFO - [ShopRegistration] - Thread Thread-7: Registering a Shop
+2023-10-15 13:42:23,686 - kuberCart - INFO - [SPExecutor] - generating unique seller code
+2023-10-15 13:42:23,688 - kuberCart - INFO - [SPExecutor] - sp_GenerateUniqueShopCode executed successfully !!
+2023-10-15 13:42:23,688 - kuberCart - INFO - [ShopValidation] - Making a connection to the database
+2023-10-15 13:42:23,718 - kuberCart - INFO - [ShopValidation] - Checking if a shop is already exists in our database or not
+2023-10-15 13:42:23,719 - kuberCart - INFO - [ShopValidation] - query = SELECT *  FROM Shop WHERE ShopName=%s
+2023-10-15 13:42:23,761 - kuberCart - INFO - [ShopValidation] - creating new shop in our database with shopId : SHOP7546
+2023-10-15 13:42:23,800 - kuberCart - INFO - [ShopValidation] - virtual shop has been created successfully
+2023-10-15 13:42:28,210 - kuberCart - INFO - [ShopRegistration] - Thread Thread-9: Registering a Shop
+2023-10-15 13:42:28,240 - kuberCart - INFO - [SPExecutor] - generating unique seller code
+2023-10-15 13:42:28,243 - kuberCart - INFO - [SPExecutor] - sp_GenerateUniqueShopCode executed successfully !!
+2023-10-15 13:42:28,243 - kuberCart - INFO - [ShopValidation] - Making a connection to the database
+2023-10-15 13:42:28,269 - kuberCart - INFO - [ShopValidation] - Checking if a shop is already exists in our database or not
+2023-10-15 13:42:28,270 - kuberCart - INFO - [ShopValidation] - query = SELECT *  FROM Shop WHERE ShopName=%s
+2023-10-15 13:42:28,301 - kuberCart - INFO - [ShopValidation] - creating new shop in our database with shopId : SHOP9664
+2023-10-15 13:42:28,318 - kuberCart - INFO - [ShopValidation] - virtual shop has been created successfully
+2023-10-15 13:42:35,691 - kuberCart - INFO - [ShopRegistration] - Thread Thread-11: Registering a Shop
+2023-10-15 13:42:35,720 - kuberCart - INFO - [SPExecutor] - generating unique seller code
+2023-10-15 13:42:35,722 - kuberCart - INFO - [SPExecutor] - sp_GenerateUniqueShopCode executed successfully !!
+2023-10-15 13:42:35,723 - kuberCart - INFO - [ShopValidation] - Making a connection to the database
+2023-10-15 13:42:35,753 - kuberCart - INFO - [ShopValidation] - Checking if a shop is already exists in our database or not
+2023-10-15 13:42:35,753 - kuberCart - INFO - [ShopValidation] - query = SELECT *  FROM Shop WHERE ShopName=%s
+2023-10-15 13:42:35,755 - kuberCart - INFO - [ShopValidation] - Shop found, returning info
+2023-10-15 13:42:35,755 - kuberCart - ERROR - [ShopValidation] - User with that username already exists
+2023-10-15 13:43:00,927 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-15 13:43:00,927 - kuberCart - INFO - [Main] - starting shop registration service
+2023-10-15 13:43:00,927 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
+2023-10-15 13:43:13,067 - kuberCart - INFO - [Main] - 
+        K   K  U   U  BBBB  EEEE  RRRR   CCCC  A   RRRR   TTTTT
+        K  K   U   U  B   B E     R   R C     A A  R   R    T  
+        KK     U   U  BBBB  EEEE  RRRR  C     AAA  RRRR     T  
+        K  K   U   U  B   B E     R  R  C     A  A R  R     T  
+        K   K   UUU   BBBB  EEEE  R   R  CCCC A   A R   R    T  
+        
+2023-10-15 13:43:13,067 - kuberCart - INFO - [Main] - starting shop registration service
+2023-10-15 13:43:13,067 - kuberCart - INFO - [Main] - deployed version - 1.0.0.0
